@@ -388,6 +388,15 @@ body {
 .body-box-text h6 {
 	font-family: "Montserrat", sans-serif;
 }
+.body-box-text a1{
+	color: #fff;
+	border-bottom: 2px solid #5CE6C7;
+	padding-bottom: 1px;
+}
+.body-box-text a1:hover{
+	border-bottom: none;
+	color: #5CE6C7;
+}
 .body-box img{
 	float: right;
 	height: 100%;
@@ -415,6 +424,9 @@ body {
 .socials svg{
 	fill:#fff;
 	height:100%;
+}
+.socials svg:hover{
+	fill: #5CE6C7;
 }
 .socials a{
 	margin-left: auto;
