@@ -401,6 +401,7 @@ body {
 	padding:1vw 3.75vw;
 	background-color: #5CE6C7;
 	border-radius: 50px;
+	transition: background-color 0.2s ease;
 }
 .clicktochat:hover{
 	background-color: #1CB794;
