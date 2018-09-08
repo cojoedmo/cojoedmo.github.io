@@ -396,6 +396,7 @@ body {
 .body-box-text a1:hover{
 	border-bottom: none;
 	color: #5CE6C7;
+	cursor: pointer;
 }
 .body-box img{
 	float: right;
