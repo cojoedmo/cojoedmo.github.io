@@ -395,19 +395,15 @@ body {
 	margin-top: -5%;
 	margin-right: -2vh;
 }
-.clicktochat{
-	height:4vw;
-	width:15vw;
-	background-color: #5CE6C7;
+.clicktochat {
 	color: #fff;
-	text-align: center;
-	margin-left: auto;
-	margin-right: auto;
+	font-weight: Light;	
+	padding:1vw 3.75vw;
+	background-color: #5CE6C7;
 	border-radius: 50px;
 }
-.clicktochat a{
-	color: #FFFFFF;
-	font-weight: Light;
+.clicktochat:hover{
+	background-color: #1CB794;
 }
 .socials{
 	height: 24px;
